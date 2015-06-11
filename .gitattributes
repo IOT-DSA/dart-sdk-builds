@@ -1,0 +1,4 @@
+arm.zip filter=lfs diff=lfs merge=lfs -crlf
+beaglebone.zip filter=lfs diff=lfs merge=lfs -crlf
+ci20.zip filter=lfs diff=lfs merge=lfs -crlf
+dgbox.zip filter=lfs diff=lfs merge=lfs -crlf
